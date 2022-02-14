@@ -1,0 +1,61 @@
+[{
+    "id":1,
+    "title": "Older version Netlify links broken",
+    "author":"Admin 1",
+    "labels":["bug","high priority","accessibility","bug-confirmed","bug-unconfirmed","CLA -Signed","dependencies","difficulty-beginner","difficulty-medium","difficulty-hard"]
+},
+{
+    "id":2,   
+    "title": "[Beta] Make Deep Dives linkable",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":3,   
+    "title": "Fix social images in beta",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":4,
+    "title": "[Beta] Inconsistent Sandpack layout below 1280px",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":5,
+    "title": "Suggestion to update docs on testing practices in React",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":6,
+    "title": "Docs of setState hook showcase usage that might lead to bugs",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":7,
+    "title": "Add Back to home",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":8,
+    "title": "Suggestion to update docs on testing practices in React",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":9,
+    "title": "Weird state binding bug",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+},
+{
+    "id":10,
+    "title": "Suggestion to update docs on testing practices in React",
+    "author":"Admin 1",
+    "labels":["bug","high priority"]
+}
+]
